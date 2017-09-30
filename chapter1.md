@@ -1,3 +1,6 @@
-# First Chapter
+# Python
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+一些使用Python的技巧
+
+
+
