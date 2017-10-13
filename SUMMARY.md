@@ -9,5 +9,5 @@
   * [Nginx代理PHP](nginx/nginxdai-li-php.md)
 * [Java](java.md)
   * [使用xjc工具自动生成DTD格式的JAXB类](java/shi-yong-xjc-gong-ju-zi-dong-sheng-cheng-dtd-ge-shi-de-jaxb-lei.md)
-  * Brainfuck语言解释器的Java实现
+  * [Brainfuck语言解释器的Java实现](java/brainfuckyu-yan-jie-shi-qi-de-java-shi-xian.md)
 
