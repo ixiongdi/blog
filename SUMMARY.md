@@ -10,4 +10,5 @@
 * [Java](java.md)
   * [使用xjc工具自动生成DTD格式的JAXB类](java/shi-yong-xjc-gong-ju-zi-dong-sheng-cheng-dtd-ge-shi-de-jaxb-lei.md)
   * [Brainfuck语言解释器的Java实现](java/brainfuckyu-yan-jie-shi-qi-de-java-shi-xian.md)
+  * [牛顿法求平方根](java/niu-dun-fa-qiu-ping-fang-gen.md)
 
